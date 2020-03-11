@@ -1,16 +1,15 @@
-# Uncdocker
+# Uncdocker - Docker Container Project
 
+# Introduction 
+- Creating a customized Docker container from the current version of Python that deploys a simple python script.
+- Push image to DockerHub
+- Pull the image down and run it on a cloud platform cloud shell: Google Cloud Shell or AWS Cloud9.
 
 # Project Description
-- Created Docker Container in AWS Cloud9,  - Published to Docker Hub  - Published GitHub Repository.
+- Created Docker Container in AWS Cloud9  
+- Published to Docker Hub  
+- Published GitHub Repository
 
-# Skills 
-  - Python
-  - AWS EC2
-  - AWS Cloud9
-  - Docker Container
-  - Docker Hub
-  - Git
 
 # Docker Contents
   - Dockerfile
