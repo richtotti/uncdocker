@@ -5,9 +5,9 @@
 Created Docker Container in AWS Cloud9, and Published to Docker Hub and GitHub Repository.
 
 # Skills 
-  -Python
-  -AWS EC2
-  -AWS Cloud9
+  -Python*
+  -AWS EC2*
+  -AWS Cloud9*
   -Docker Container
   -Docker Hub
   -Git
