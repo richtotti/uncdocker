@@ -2,7 +2,7 @@
 
 #Project Description
 
-Created Docker Container in AWS Cloud9, Integrated CircleCI and Published to Docker Hub and GitHub Repository.
+Created Docker Container in AWS Cloud9, and Published to Docker Hub and GitHub Repository.
 
 ##Skills 
 Python
